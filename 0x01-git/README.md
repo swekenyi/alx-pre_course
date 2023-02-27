@@ -1,2 +1,2 @@
 My second readme
-updated
+is up to date
